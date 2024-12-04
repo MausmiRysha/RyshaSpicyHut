@@ -11,7 +11,7 @@ body,h2{
 }
 
 .landing{
-   background-image: url('../Website.in//html.jpg');
+   background-image: url('../html.jpg');
    background-size: cover;
    background-position: center;
    height:100vh;
